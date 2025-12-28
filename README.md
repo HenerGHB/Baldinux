@@ -1,6 +1,6 @@
 To install use Git
 To Play You Need Python Modules:
-time; random; os; math.
+time; random; sys; os; math.
 How To Install? Use this command (Linux):
 git clone https://github.com/HenerGHB/Baldinux && cd Baldinux && python BaldinuxV2.py
 If you got an error like "No Module called "module_name", then:
